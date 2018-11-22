@@ -328,3 +328,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/Cmder.Bot/CmderBot.bot
+/Cmder.Bot/CmderBot-Local.bot
